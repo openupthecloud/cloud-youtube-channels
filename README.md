@@ -222,7 +222,7 @@ Basically an export of all the tech channels I follow. Some maybe not 100% cloud
 
 Executed on: https://www.youtube.com/feed/channels
 
-```
+```javascript
 
 const elements = [...document.getElementsByTagName('ytd-channel-renderer')]
 
