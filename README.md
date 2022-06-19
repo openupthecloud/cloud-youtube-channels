@@ -1,5 +1,7 @@
 # Cloud & Tech YouTube Channels
 
+Basically an export of all the tech channels I follow. Some maybe not 100% cloud, but it should be a good list !
+
 * [100 Days Of Cloud](https://www.youtube.com/channel/UCGKz2GHNGyTRiBOz13SMWkw) - 448 subs - 5 videos
 * [A Cloud Guru](https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw) - 125K subs - 873 videos
 * [A Guide To Cloud](https://www.youtube.com/channel/UCg8OCdG1yeiSPFDyqQDxHnw) - 25.3K subs - 579 videos
